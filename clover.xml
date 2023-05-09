@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683644850">
-  <project timestamp="1683644850">
+<coverage generated="1683645662">
+  <project timestamp="1683645662">
     <file name="/app/src/BGVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\BGVatNumberFormatValidatorsConfig\BGVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
